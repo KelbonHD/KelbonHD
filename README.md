@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KelbonHD
 - 👀 I’m interested in Front/Back end Software Engineering.
 - 🌱 I’m currently learning Software Engineering Basics
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m looking to collaborate anything basic really.
 - 📫 How to reach me: through my email, keltontruman@gmail.com
 
 <!---
